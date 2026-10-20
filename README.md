@@ -1,8 +1,10 @@
 ## Hi there 👋
 I am a student at **Central South University (中南大学)**.
 
-- 📧 Email: pengxie1226@csu.edu.cn  (填你的学校邮箱)
-- 🎓 Major: Management Science and Engineering (填你的专业)<!--
+- 📧 Email: pengxie1226@csu.edu.cn  
+- 🎓 Major: Management Science and Engineering
+
+  
 **ber-bedi/ber-bedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
